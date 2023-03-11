@@ -1,0 +1,29 @@
+{
+  "resources": [
+    {
+      "title": "Biking",
+      "link": "https://indieweb.social/@kendalmintcode",
+      "imageUrl": "https://placeimg.com/300/300/any"
+    },
+    {
+      "title": "Hiking and Trecking",
+      "link": "https://ark-labs.co.uk",
+      "imageUrl": "https://placeimg.com/300/300/animals"
+    },
+    {
+      "title": "Surfing",
+      "link": "https://indieweb.social/@kendalmintcode",
+      "imageUrl": "https://placeimg.com/300/300/architecture"
+    },
+    {
+      "title": "Polar expeditions",
+      "link": "https://indieweb.social/@kendalmintcode",
+      "imageUrl": "https://placeimg.com/300/300/tech"
+    },
+    {
+      "title": "Surfing",
+      "link": "https://indieweb.social/@kendalmintcode",
+      "imageUrl": "https://placeimg.com/300/300/architecture"
+    }
+  ]
+}
