@@ -111,7 +111,10 @@ export default function Home() {
               transaction fees into local community or environmental initiatives
               of your choosing.
             </p>
-            <button className="w-[400px] md:w-[200px] py-3 text-white mx-auto my-2 rounded-md bg-[#FFB200]">
+            <button
+              className="w-[85%]
+             md:w-[200px] py-3 text-white mx-auto my-2 rounded-md bg-[#FFB200]"
+            >
               BOOK NOW
             </button>
           </div>
