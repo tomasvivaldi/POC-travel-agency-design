@@ -160,12 +160,12 @@ const Footer = () => {
             <h3 className="text-3xl">Join the Journey</h3>
             <form className="flex flex-col gap-4 max-w-[350px] ">
               <input
-                className="bg-transparent  border-b-2 pb-2 border-white  text-white placeholder-gray-300 mb-4"
+                className="bg-transparent outline-none border-b-2 pb-2 border-white  text-white placeholder-gray-300 mb-4"
                 type="text"
                 placeholder="Your name"
               />
               <input
-                className="bg-transparent  border-b-2 pb-2 border-white text-white placeholder-gray-300 "
+                className="bg-transparent outline-none border-b-2 pb-2 border-white text-white placeholder-gray-300 "
                 type="email"
                 placeholder="Your email"
               />
